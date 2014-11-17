@@ -15,7 +15,7 @@
 		<div class=top><p></p></div>
 		<div class="container">
 		  <header>
-		  	<h1>CodePen HR Forms Mock</h1>
+		  	<h1>CodePen Responsive Form Mock</h1>
 		  	<nav><button class="nav-sidebar">Sidebar</button></nav>
 		    <div style="clear: both"></div>
 		  </header> 
