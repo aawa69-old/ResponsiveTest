@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>CodePen HR Forms Mock</title>
+        <title>CodePen Responsive Mock</title>
         <link type="text/css" rel="stylesheet" href="codepen.css" />
 		<link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" />   
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
@@ -15,7 +15,7 @@
 		<div class=top><p></p></div>
 		<div class="container">
 		  <header>
-		  	<h1>CodePen Responsive Form Mock</h1>
+		  	<h1>CodePen Responsive Mock</h1>
 		  	<nav><button class="nav-sidebar">Sidebar</button></nav>
 		    <div style="clear: both"></div>
 		  </header> 
