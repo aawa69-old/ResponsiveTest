@@ -1,3 +1,4 @@
+// Some comment
 $(document).ready(function() {
 	
 	var tp = $('.top p');
