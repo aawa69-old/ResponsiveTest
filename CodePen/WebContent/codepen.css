@@ -111,7 +111,7 @@ main {
 
 .right { 
   	padding: 20px;
-  	background: rgb(120,120,120);
+  	background: #2d3d4d;
   	min-width: 280px; 
   	float: right;
   	border-radius: 25px;
