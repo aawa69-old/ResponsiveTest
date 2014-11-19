@@ -34,6 +34,7 @@ $(document).ready(function() {
 	    }
 	};		
 	
+	// TODO: Something
 	function hideSide() {
 		var sb = $('.sidebar');
 		sb.fadeOut(500, function() { sb.addClass('hide'); });
